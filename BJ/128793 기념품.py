@@ -14,8 +14,7 @@ while True:
 
   mul = int(math.pow(i, 3))
   Del = mul % len(Gamers)
-  if Del != 0:
-    Del -= 1
+  Del -= 1
   Gamers.pop(Del)
 
 print(Gamers[0])
