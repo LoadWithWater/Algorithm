@@ -1,0 +1,17 @@
+11116 교통량
+https://www.acmicpc.net/problem/11116
+
+12034 식료품가게
+https://www.acmicpc.net/problem/12034
+
+23253 자료구조는 정말 최고야
+https://www.acmicpc.net/problem/23253
+
+1021 회전하는 큐
+https://www.acmicpc.net/problem/1021
+
+1302 베스트셀러
+https://www.acmicpc.net/problem/1302
+
+1764 듣보잡
+https://www.acmicpc.net/problem/1764

@@ -8,6 +8,6 @@ for i in range(n):
     num += k-1  # K-1을 해주는 이유는 배열인덱스는 0부터 시작하기 때문
     if num >= len(people):
         num = num % len(people)
- 
+        
     result.append(str(people.pop(num)))
 print("<", ", ".join(result)[:], ">", sep='')
