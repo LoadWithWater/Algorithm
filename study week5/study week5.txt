@@ -4,7 +4,7 @@ https://www.acmicpc.net/problem/10828
 9012 괄호
 https://www.acmicpc.net/problem/9012
 
-18258 큐 2
+18258 큐2
 https://www.acmicpc.net/problem/18258
 
 2164 카드2
