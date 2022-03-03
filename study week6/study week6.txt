@@ -1,0 +1,17 @@
+1620 나는야 포켓몬 마스터 이다솜
+https://www.acmicpc.net/problem/1620
+
+14425 문자열 집합
+https://www.acmicpc.net/problem/14425
+
+11279 최대 힙
+https://www.acmicpc.net/problem/11279
+
+11286 절댓값 힙
+https://www.acmicpc.net/problem/11286
+
+4358 생태학
+https://www.acmicpc.net/problem/4358
+
+7662 이중 우선순위 큐
+https://www.acmicpc.net/problem/7662
