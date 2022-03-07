@@ -17,7 +17,7 @@ while True:
         trees[tree] = 1
 
 
-sorted_trees = sorted(trees.items(), key=lambda x: x[0])
+sorted_trees = sorted(trees.items())
 
 for key, value in sorted_trees:
     per = round((value/all_trees)*100, 4)
